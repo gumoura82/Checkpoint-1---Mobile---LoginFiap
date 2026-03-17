@@ -26,7 +26,6 @@ Este projeto consiste no desenvolvimento de uma tela de login inspirada no site 
 ## Nomes e RMs
 
 Giovanne Charelli Zaniboni Silva | 556223 
-Juan Francisco Alves Muradas | 555541 
 Leonardo Pasquini Baldaia | 557416 
 Gustavo Oliveira de Moura | 555827 
 Lynn Bueno Rosa | 551102
